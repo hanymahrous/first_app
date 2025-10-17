@@ -29,6 +29,7 @@ void main() {
               height: 200,
               fit: BoxFit.contain,
             ),
+            Text("Hello", style: TextStyle(fontSize: 24)),
           ],
         ),
       ),
