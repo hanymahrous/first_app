@@ -30,6 +30,7 @@ void main() {
               fit: BoxFit.contain,
             ),
             Text("Hello", style: TextStyle(fontSize: 24)),
+            Text("Hello", style: TextStyle(fontSize: 24)),
           ],
         ),
       ),
